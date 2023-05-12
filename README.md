@@ -22,6 +22,7 @@ For accessing Census data it seems like I have two options
     - needs an API key
         - understandable.. but I really need to figure out how to go about pushing public things that use API keys?? I guess maybe I can keep all the data gathering or even some sort of secrets file in the .gitignore??? Does github have secrets management???
     - otherwise is basically just regular API as usual. Will probably take a bit of work wrangling the data to what I really want.
+- [csv dumps??](https://www2.census.gov/programs-surveys/)
 
 # Metric types
 
