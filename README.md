@@ -1,2 +1,6 @@
 # state_metrics
 An attempt to rank the 50 states in the U.S. to truly find the top of the top.
+
+# Background
+
+I'm ultimately interested in using as much data as possible to figure out what is the best city / neighborhood overall. That's a pretty tall order honestly, so I think it will be easier to just start with the states! So there's all types of ways that states get ranked "top happiness", "most affordable" etc. lots and lots of these types of rankings. What I'm primarily interested in knowing is are there states that just crush in these lists and could make their way to the top of the top of some sort of list of lists?? The metrics themselves tend to be pretty objective, but their relative importance and even the interpretation of what it means to be at the top or bottom is quite subjective. Nevertheless, my goal is to gather as many of these lists as posible! THe nice thing about using states is that it shouldn't be too hard to find lists that rank all 50 states (which might be harder for cities) so we will end up with a nice and neat 50 x N matrix of rankings. From that ranking, the two primary things I would like to do are to cluster the rankings and see how the states group relative to metric type / region .  Then ultimately I'd like to see whose average  rank is the highest overa ll and across metric types and regions.
