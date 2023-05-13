@@ -1,0 +1,51 @@
+state,population_size,rank
+California,39501653,1.0
+Texas,29232474,2.0
+Florida,21589602,3.0
+New York,20108296,4.0
+Pennsylvania,12994440,5.0
+Illinois,12786580,6.0
+Ohio,11797517,7.0
+Georgia,10729828,8.0
+North Carolina,10449445,9.0
+Michigan,10069577,10.0
+New Jersey,9271689,11.0
+Virginia,8636471,12.0
+Washington,7724031,13.0
+Arizona,7179943,14.0
+Massachusetts,6995729,15.0
+Tennessee,6925619,16.0
+Indiana,6788799,17.0
+Maryland,6173205,18.0
+Missouri,6153998,19.0
+Wisconsin,5896271,20.0
+Colorado,5784865,21.0
+Minnesota,5709852,22.0
+South Carolina,5131848,23.0
+Alabama,5031362,24.0
+Louisiana,4651664,25.0
+Kentucky,4507445,26.0
+Oregon,4244795,27.0
+Oklahoma,3964912,28.0
+Connecticut,3597362,29.0
+Utah,3283785,30.0
+Iowa,3190571,31.0
+Nevada,3115648,32.0
+Arkansas,3014195,33.0
+Mississippi,2958141,34.0
+Kansas,2937919,35.0
+New Mexico,2118390,36.0
+Nebraska,1962642,37.0
+Idaho,1849202,38.0
+West Virginia,1791420,39.0
+Hawaii,1451043,40.0
+New Hampshire,1378587,41.0
+Maine,1363557,42.0
+Rhode Island,1096345,43.0
+Montana,1087075,44.0
+Delaware,992114,45.0
+South Dakota,887799,46.0
+North Dakota,779518,47.0
+Alaska,732923,48.0
+Vermont,642893,49.0
+Wyoming,577605,50.0
